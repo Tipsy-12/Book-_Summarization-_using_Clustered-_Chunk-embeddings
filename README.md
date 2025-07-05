@@ -13,7 +13,6 @@ It’s particularly effective for books too long to fit into a single LLM contex
 | PDF Loading    | LangChain's PyPDFLoader / PyMuPDFLoader      |
 | Text Splitting | LangChain's RecursiveCharacterTextSplitter   |   
 | Embeddings        | GoogleGenerativeAIEmbeddings             |
-| Vector Search     | DocArrayInMemorySearch                   |
 | Clustering	| KMeans from scikit-learn |
 | Dimensionality Reduction	| t-SNE (sklearn)      |
 | Evaluation	| ROUGE, BLEU, METEOR, BERTScore, Cosine Similarity      |
