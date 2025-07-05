@@ -1,4 +1,4 @@
-#  📚 Clustering-Based Summarization of Long Books (LangChain + Gemini)
+#  📚 Clustering-Based Summarization of Long Books
 
 This Colab notebook performs extractive + abstractive summarization of long books or PDFs by clustering semantically similar passages and summarizing the most representative ones using Google Gemini.
 
