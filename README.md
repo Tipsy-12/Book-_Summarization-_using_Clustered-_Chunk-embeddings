@@ -1,4 +1,4 @@
-#  📚 Clustering-Based Summarization of Long Books
+#  📚 Semantic Clustering-Based Summarisation of Long Books
 
 This Colab notebook performs extractive + abstractive summarization of long books or PDFs by clustering semantically similar passages and summarizing the most representative ones using Google Gemini.
 
@@ -46,15 +46,14 @@ It’s particularly effective for books too long to fit into a single LLM contex
 | 🧠 **Cosine Similarity** | 0.9293
 
 
+---
 
+### 🧠 Conclusions
 
-
-
-### Conclusions : 
-1. Our LLM summary is factually and thematically solid — it closely matches the meaning of a rich, human-style reference.
-2. Traditional metrics, such as ROUGE/BLEU, severely underrepresent this match because they rely on surface-level word overlap.
-3. A better metric to evaluate the quality of a summary is Cosine Similarity between vector embeddings of the reference and generated summaries.
-4. Our summary matches more with an AI-generated refernce summary (obviously).
+- Our LLM-generated summary aligns closely with detailed, human-style references, achieving a **cosine similarity of 0.83**.
+- Traditional lexical metrics (ROUGE, BLEU, etc.) **underestimate semantic match** when comparing summaries with differing granularity or phrasing because they rely on surface-level word overlap.
+- **Embedding-based evaluation (Cosine Similarity)** provides a more reliable assessment of summary quality in long-document tasks.
+- Our summary shows significantly stronger alignment with an **AI-generated reference** than with a brief Wikipedia-style summary.
 
 
 
