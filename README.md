@@ -1,6 +1,11 @@
 #  📚 Semantic Clustering-Based Summarisation of Long Books
 
-This Colab notebook performs extractive + abstractive summarization of long books or PDFs by clustering semantically similar passages and summarizing the most representative ones using Google Gemini.
+1. Load your book into a single text file
+2. Split your text into large-ish chunks
+3. Embed your chunks to get vectors
+4. Cluster the vectors to see which are similar to each other and likely talk about the same parts of the book
+5. Pick embeddings that represent the cluster the most (method: closest to each cluster centroid)
+6. Summarise the documents that these embeddings represent
 
 It’s particularly effective for books too long to fit into a single LLM context window.
 ---
