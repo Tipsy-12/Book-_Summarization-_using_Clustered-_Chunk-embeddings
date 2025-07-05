@@ -19,31 +19,18 @@ It’s particularly effective for books too long to fit into a single LLM contex
 
 ---
 
-### Results
+### 📊 Evaluation Metrics 
 
-### 📊 Evaluation Metrics when the reference summary is taken from Wikipedia
 
-| Metric               | Score                                  |
-|----------------------|----------------------------------------|
-| 🔴 **ROUGE-1 (F1)**   | 0.1535 (P: 0.1100, R: 0.2537)           |
-| 🟠 **ROUGE-2 (F1)**   | 0.0376 (P: 0.0265, R: 0.0650)           |
-| 🟡 **ROUGE-L (F1)**   | 0.1354 (P: 0.0971, R: 0.2239)           |
-| 🔵 **BLEU**           | 0.0116                                 |
-| 🟣 **METEOR**         | 0.222                                  |
-| 🟢 **BERTScore (F1)** | 0.0217                                 |
-| 🧠 **Cosine Similarity** | 0.8307                             |
-
-### 📊 Evaluation Metrics when the reference summary is AI-generated
-
-| Metric               | Score                                  |
-|----------------------|----------------------------------------|
-| 🔴 **ROUGE-1 (F1)**   | 0.2635 (P: 0.2362, R: 0.2980)           |
-| 🟠 **ROUGE-2 (F1)**   | 0.0829 (P: 0.0713, R: 0.0992)           |
-| 🟡 **ROUGE-L (F1)**   | 0.2383 (P: 0.2136, R: 0.2694)           |
-| 🔵 **BLEU**           | 0.0186                                 |
-| 🟣 **METEOR**         | 0.2592                                 |
-| 🟢 **BERTScore (F1)** | 0.1816                                 |
-| 🧠 **Cosine Similarity** | 0.9293
+| Metric               | Wikipedia Reference                    | AI-Generated Reference                |
+|----------------------|----------------------------------------|---------------------------------------|
+| 🔴 **ROUGE-1 (F1)**   | 0.1535 (P: 0.1100, R: 0.2537)           | 0.2635 (P: 0.2362, R: 0.2980)          |
+| 🟠 **ROUGE-2 (F1)**   | 0.0376 (P: 0.0265, R: 0.0650)           | 0.0829 (P: 0.0713, R: 0.0992)          |
+| 🟡 **ROUGE-L (F1)**   | 0.1354 (P: 0.0971, R: 0.2239)           | 0.2383 (P: 0.2136, R: 0.2694)          |
+| 🔵 **BLEU**           | 0.0116                                 | 0.0186                                |
+| 🟣 **METEOR**         | 0.222                                  | 0.2592                                |
+| 🟢 **BERTScore (F1)** | 0.0217                                 | 0.1816                                |
+| 🧠 **Cosine Similarity** | 0.8307                             | 0.9293                                |
 
 
 ---
