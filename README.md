@@ -43,7 +43,7 @@ It’s particularly effective for books too long to fit into a single LLM contex
 ### 🧠 Conclusions
 
 - Our LLM-generated summary aligns closely with detailed, human-style references, achieving a **cosine similarity of 0.83**.
-- Traditional lexical metrics (ROUGE, BLEU, etc.) **underestimate semantic match** when comparing summaries with differing granularity or phrasing because they rely on surface-level word overlap.
+- Traditional lexical metrics (ROUGE, BLEU, etc.) **underestimate semantic match** because they rely on surface-level word overlap.
 - **Embedding-based evaluation (Cosine Similarity)** provides a more reliable assessment of summary quality in long-document tasks.
 - Our summary shows significantly stronger alignment with an **AI-generated reference** than with a brief Wikipedia-style summary.
 
