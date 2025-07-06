@@ -63,7 +63,7 @@ As Harry navigates the challenges of the tournament, including battling a dragon
 
 ---
 
-### Summary of the book The Fountainhead (523 pages)
+### Summary of the book The Fountainhead by Ayn Rand (523 pages)
 
 "The Fountainhead" by Ayn Rand explores the themes of individualism versus collectivism through the life and career of architect Howard Roark, who refuses to compromise his artistic vision. The story begins with Roark's expulsion from architecture school due to his unconventional designs. He then works for various firms, including Francon & Heyer, where he encounters Peter Keating, a talented but insecure architect who prioritises popularity over integrity. Keating's ambition leads him to seek Roark's help secretly while publicly undermining him. Roark also meets Dominique Francon, a complex and cynical woman who is drawn to his uncompromising nature but attempts to destroy him to protect herself from the world's mediocrity. Their relationship is marked by intense passion and a destructive dynamic.
 
