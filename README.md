@@ -60,6 +60,7 @@ Animal Farm is an allegorical novella that tells the story of a group of farm an
 In "Harry Potter and the Goblet of Fire," Harry finds himself unexpectedly entered in the dangerous Triwizard Tournament, a competition between three wizarding schools. The story begins with Harry's excitement about attending the Quidditch World Cup with the Weasleys, an event that is marred by an attack by Death Eaters and the appearance of the Dark Mark. Back at Hogwarts, the arrival of students from Beauxbatons and Durmstrang signals the start of the Triwizard Tournament, and despite being underage, Harry is mysteriously selected as a fourth champion.
 
 As Harry navigates the challenges of the tournament, including battling a dragon, rescuing Ron from the Black Lake, and navigating a treacherous maze, he uncovers a sinister plot orchestrated by Lord Voldemort. Barty Crouch Jr., disguised as Professor Moody, has manipulated the tournament to ensure Harry's victory and transport him to Voldemort. In a graveyard, Voldemort, having regained a rudimentary body, uses Harry's blood in a dark ritual to restore his full power. He then duels Harry, revealing his plan to return to power and his past encounters with Harry. The book culminates in a tragic showdown where Cedric Diggory is murdered, and Harry barely escapes with his life, carrying the horrifying truth of Voldemort's return to the wizarding world.
+
 ---
 
 ### Summary of the book The Fountainhead (523 pages)
