@@ -55,8 +55,17 @@ Animal Farm is an allegorical novella that tells the story of a group of farm an
 
 ---
 
-### Summary of the book Harry Potter and the Goblet of Fire
+### Summary of the book Harry Potter and the Goblet of Fire (475 pages)
 
 In "Harry Potter and the Goblet of Fire," Harry finds himself unexpectedly entered in the dangerous Triwizard Tournament, a competition between three wizarding schools. The story begins with Harry's excitement about attending the Quidditch World Cup with the Weasleys, an event that is marred by an attack by Death Eaters and the appearance of the Dark Mark. Back at Hogwarts, the arrival of students from Beauxbatons and Durmstrang signals the start of the Triwizard Tournament, and despite being underage, Harry is mysteriously selected as a fourth champion.
 
 As Harry navigates the challenges of the tournament, including battling a dragon, rescuing Ron from the Black Lake, and navigating a treacherous maze, he uncovers a sinister plot orchestrated by Lord Voldemort. Barty Crouch Jr., disguised as Professor Moody, has manipulated the tournament to ensure Harry's victory and transport him to Voldemort. In a graveyard, Voldemort, having regained a rudimentary body, uses Harry's blood in a dark ritual to restore his full power. He then duels Harry, revealing his plan to return to power and his past encounters with Harry. The book culminates in a tragic showdown where Cedric Diggory is murdered, and Harry barely escapes with his life, carrying the horrifying truth of Voldemort's return to the wizarding world.
+---
+
+### Summary of the book The Fountainhead (523 pages)
+
+"The Fountainhead" by Ayn Rand explores the themes of individualism versus collectivism through the life and career of architect Howard Roark, who refuses to compromise his artistic vision. The story begins with Roark's expulsion from architecture school due to his unconventional designs. He then works for various firms, including Francon & Heyer, where he encounters Peter Keating, a talented but insecure architect who prioritises popularity over integrity. Keating's ambition leads him to seek Roark's help secretly while publicly undermining him. Roark also meets Dominique Francon, a complex and cynical woman who is drawn to his uncompromising nature but attempts to destroy him to protect herself from the world's mediocrity. Their relationship is marked by intense passion and a destructive dynamic.
+
+As Keating's career declines due to his lack of originality, Roark continues to face challenges, including the rejection of his designs and the struggle to find clients who appreciate his vision. He works in a granite quarry to maintain his independence. Meanwhile, Keating's desperation leads him to secure the commission for Cortlandt Homes, a large-scale housing project, which he designs based on Roark's principles, albeit poorly executed. When the project is compromised by committee decisions and fails to meet his standards, Roark dynamites the building.
+
+Roark's act of defiance leads to a highly publicised trial, during which he defends his actions and articulates his philosophy of individualism. Gail Wynand, a powerful newspaper publisher who is married to Dominique, initially attempts to manipulate public opinion in Roark's favour but ultimately fails and destroys his career and reputation in the process. Roark is eventually acquitted, and the novel concludes with him designing the Wynand Building, a testament to his unwavering commitment to his principles, with Dominique by his side, finally accepting his vision.
